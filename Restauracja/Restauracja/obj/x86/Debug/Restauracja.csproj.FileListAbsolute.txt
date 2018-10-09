@@ -1,0 +1,5 @@
+/Users/Karol/Projects/Restauracja/Restauracja/bin/Debug/Restauracja.exe
+/Users/Karol/Projects/Restauracja/Restauracja/bin/Debug/Restauracja.pdb
+/Users/Karol/Projects/Restauracja/Restauracja/obj/x86/Debug/Restauracja.csproj.CoreCompileInputs.cache
+/Users/Karol/Projects/Restauracja/Restauracja/obj/x86/Debug/Restauracja.exe
+/Users/Karol/Projects/Restauracja/Restauracja/obj/x86/Debug/Restauracja.pdb

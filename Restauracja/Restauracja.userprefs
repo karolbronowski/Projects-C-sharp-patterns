@@ -1,0 +1,24 @@
+﻿<Properties StartupConfiguration="{FECBAC4C-F70C-47B4-8278-2D39945BF4E3}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Restauracja/Ryba.cs">
+    <Files>
+      <File FileName="Restauracja/Program.cs" Line="33" Column="2" />
+      <File FileName="Restauracja/Ryba.cs" Line="21" Column="2" />
+      <File FileName="Restauracja/Ogorek.cs" Line="20" Column="2" />
+      <File FileName="Restauracja/Marchewka.cs" Line="20" Column="2" />
+      <File FileName="Restauracja/Ziemniaki.cs" Line="21" Column="2" />
+      <File FileName="Restauracja/Kotlet.cs" Line="20" Column="2" />
+      <File FileName="Restauracja/Frytki.cs" Line="21" Column="2" />
+      <File FileName="Restauracja/DuzyZestaw.cs" Line="16" Column="2" />
+      <File FileName="Restauracja/MalyZestaw.cs" Line="16" Column="2" />
+      <File FileName="Restauracja/Zestaw.cs" Line="9" Column="2" />
+      <File FileName="Restauracja/ZestawDekorator.cs" Line="22" Column="2" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Restauracja PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

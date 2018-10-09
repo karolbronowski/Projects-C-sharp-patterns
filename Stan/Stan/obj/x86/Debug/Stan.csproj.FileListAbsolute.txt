@@ -1,0 +1,5 @@
+/Users/Karol/Projects/Stan/Stan/bin/Debug/Stan.exe
+/Users/Karol/Projects/Stan/Stan/bin/Debug/Stan.pdb
+/Users/Karol/Projects/Stan/Stan/obj/x86/Debug/Stan.csproj.CoreCompileInputs.cache
+/Users/Karol/Projects/Stan/Stan/obj/x86/Debug/Stan.exe
+/Users/Karol/Projects/Stan/Stan/obj/x86/Debug/Stan.pdb
